@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\maxinez\multiplicador3bits\simulation\qsim
+vmultiplicador
+Z1 !s100 PUh=l`G?S>][T7L0kNaP<3
+Z2 ICNnh`eFLE3fWRaWgd4e2[3
+Z3 VJhDl1eW8ecH9b66ZUb_f@3
+Z4 dF:\maxinez\multiplicador3bits\simulation\qsim
+Z5 w1522888910
+Z6 8multiplicador.vo
+Z7 Fmultiplicador.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|multiplicador.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1522888913.720000
+Z12 !s107 multiplicador.vo|
+!s101 -O0
+vmultiplicador_vlg_check_tst
+!i10b 1
+!s100 e9EVaAm?eOAeAQQWaOSAd1
+I]fHWD1>CQ@B0LG;Ij]F>:2
+Z13 VTR0l5^gFLFM8_J`k176^V0
+R4
+Z14 w1522888906
+Z15 8multiplicador.vt
+Z16 Fmultiplicador.vt
+L0 73
+R8
+r1
+!s85 0
+31
+Z17 !s108 1522888914.828000
+Z18 !s107 multiplicador.vt|
+Z19 !s90 -work|work|multiplicador.vt|
+!s101 -O0
+R10
+vmultiplicador_vlg_sample_tst
+!i10b 1
+Z20 !s100 ^?jjhkIXDG=l[IH]127iZ0
+Z21 I=zA`5@_zZj<A7a@6m>0Ng0
+Z22 V]L?CQQEZARY8G`61LIfAU3
+R4
+R14
+R15
+R16
+L0 29
+R8
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R10
+vmultiplicador_vlg_vec_tst
+!i10b 1
+!s100 6aXN@Hac45O_UPV:`?klE1
+I@T^hn_Wi=Ze9oZ?K1eZHE1
+Z23 V?=O]E>T6LZC]QgL?USKc33
+R4
+R14
+R15
+R16
+L0 445
+R8
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R10
